@@ -1,2 +1,2 @@
 # hamming-code
-CMSC132: Hamming Code
+CMSC 132: Hamming Code
